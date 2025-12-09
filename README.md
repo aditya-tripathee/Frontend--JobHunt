@@ -51,3 +51,10 @@ frontend/
 ├─ .env
 ├─ tailwind.config.js
 └─ package.json
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/<your-org>/Backend-JobHunt.git
+cd Backend-JobHunt/frontend
+npm install
+npm run dev
