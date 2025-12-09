@@ -36,3 +36,18 @@ JobHunt is a frontend interface for a job portal where users can browse and appl
 ---
 
 ## 📁 Project Structure
+frontend/
+├─ public/
+├─ src/
+│ ├─ api/
+│ ├─ app/
+│ ├─ assets/
+│ ├─ components/
+│ ├─ features/
+│ ├─ pages/
+│ ├─ routes/
+│ ├─ utils/
+│ └─ styles/
+├─ .env
+├─ tailwind.config.js
+└─ package.json
