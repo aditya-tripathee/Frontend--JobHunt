@@ -4,6 +4,7 @@ A modern, responsive job-listing web application frontend built with **React**, 
 
 ---
 
+
 ## 🚀 Overview
 JobHunt is a frontend interface for a job portal where users can browse and apply for jobs, while recruiters can post and manage listings. This README contains all frontend-related details: tech stack, features, folder structure, and setup instructions.
 
